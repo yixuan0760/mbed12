@@ -4,7 +4,7 @@
 #define CENTER_BASE 1500
 
 
-PwmOut servo(D10);
+PwmOut servo(D11);
 
 
 void servo_control(int speed){
